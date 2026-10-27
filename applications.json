@@ -266,10 +266,10 @@
       "role": "Right of Way Agent 1 / Agent 2",
       "location": "Dallas, TX",
       "date": "2026-10-22",
-      "status": "applied",
+      "status": "rejected",
       "pay": "Not listed",
       "via": "Workday",
-      "note": "Applied Oct 22; confirmation email received",
+      "note": "Applied Oct 22; not-selected email received Oct 26",
       "lat": 32.7831,
       "lng": -96.8067,
       "approx": true
@@ -324,6 +324,32 @@
       "note": "Applied Oct 26; confirmation email received; emailed RFPCareers with Mr. SAQ page link",
       "lat": 32.78,
       "lng": -96.8,
+      "approx": true
+    },
+    {
+      "company": "NextGen (Kelly Telecom)",
+      "role": "Site Acquisition Manager/Specialist",
+      "location": "Dallas, TX",
+      "date": "2026-10-26",
+      "status": "applied",
+      "pay": "$40–50/hr",
+      "via": "Vaia/StudySmarter easy apply",
+      "note": "Applied Oct 26; \"Application sent!\" shown; asked $80K–100K",
+      "lat": 32.79,
+      "lng": -96.77,
+      "approx": true
+    },
+    {
+      "company": "Wheel",
+      "role": "Director, Customer Support",
+      "location": "Remote",
+      "date": "2026-10-27",
+      "status": "applied",
+      "pay": "$126K–$179K",
+      "via": "Ashby",
+      "note": "Applied Oct 27; confirmation email received; pinned near Dallas",
+      "lat": 32.8,
+      "lng": -96.74,
       "approx": true
     }
   ]
