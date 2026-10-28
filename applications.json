@@ -175,10 +175,10 @@
       "role": "Team Manager, Client Service Center",
       "location": "Irving, TX",
       "date": "2026-10-20",
-      "status": "applied",
+      "status": "rejected",
       "pay": "Not listed",
       "via": "LVMH careers",
-      "note": "LVM34316; applied Oct 20; confirmation email received",
+      "note": "LVM34316; applied Oct 20; rejection email received Oct 27",
       "lat": 32.814,
       "lng": -96.9489,
       "approx": true
@@ -350,6 +350,45 @@
       "note": "Applied Oct 27; confirmation email received; pinned near Dallas",
       "lat": 32.8,
       "lng": -96.74,
+      "approx": true
+    },
+    {
+      "company": "Google",
+      "role": "Data Center Site Negotiator, Acquisition and Development",
+      "location": "Addison, TX",
+      "date": "2026-10-27",
+      "status": "applied",
+      "pay": "About $150K–$217K",
+      "via": "Google Careers",
+      "note": "Applied Oct 27; confirmation email received",
+      "lat": 32.9618,
+      "lng": -96.8292,
+      "approx": true
+    },
+    {
+      "company": "Wrapbook",
+      "role": "Manager, Customer Support",
+      "location": "Remote",
+      "date": "2026-10-28",
+      "status": "applied",
+      "pay": "$110K–$178K (asked $110K)",
+      "via": "Ashby",
+      "note": "Applied Oct 28; confirmation email received; pinned near Dallas",
+      "lat": 32.84,
+      "lng": -96.72,
+      "approx": true
+    },
+    {
+      "company": "K. Hovnanian Homes",
+      "role": "Land Acquisition Manager",
+      "location": "Plano, TX",
+      "date": "2026-10-28",
+      "status": "applied",
+      "pay": "Not listed (asked $95K)",
+      "via": "Taleo",
+      "note": "Job ID 24329; applied Oct 28; submission confirmed on site",
+      "lat": 33.0198,
+      "lng": -96.6989,
       "approx": true
     }
   ]
