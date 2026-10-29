@@ -390,6 +390,71 @@
       "lat": 33.0198,
       "lng": -96.6989,
       "approx": true
+    },
+    {
+      "company": "Cotality",
+      "role": "Director, Inside Sales",
+      "location": "Dallas, TX (or remote)",
+      "date": "2026-10-28",
+      "status": "applied",
+      "pay": "$148K–$185K base (asked $145K–$165K)",
+      "via": "Workday",
+      "note": "REQ19160; applied Oct 28; confirmation email received",
+      "lat": 32.86,
+      "lng": -96.77,
+      "approx": true
+    },
+    {
+      "company": "Alteryx",
+      "role": "Manager of Inside Sales Team",
+      "location": "Remote",
+      "date": "2026-10-28",
+      "status": "applied",
+      "pay": "$120K–$145K base (asked $125K–$150K)",
+      "via": "Workday",
+      "note": "R12396; applied Oct 28; confirmation email received; pinned near Dallas",
+      "lat": 32.74,
+      "lng": -96.84,
+      "approx": true
+    },
+    {
+      "company": "Universal EV Chargers",
+      "role": "Site Acquisition Manager",
+      "location": "Plano, TX",
+      "date": "2026-10-28",
+      "status": "applied",
+      "pay": "Not listed",
+      "via": "Email to careers@universalgreengroup.com",
+      "note": "Resume and cover letter emailed Oct 28",
+      "lat": 33.0198,
+      "lng": -96.72,
+      "approx": true
+    },
+    {
+      "company": "Trinity Search Group (recruiter)",
+      "role": "Director of Land Acquisition (Houston market)",
+      "location": "Houston, TX",
+      "date": "2026-10-28",
+      "status": "applied",
+      "pay": "Not listed",
+      "via": "Email to recruiter Amanda",
+      "note": "Resume and cover letter emailed Oct 28",
+      "lat": 29.7604,
+      "lng": -95.3698,
+      "approx": true
+    },
+    {
+      "company": "Uline",
+      "role": "Customer Service Department Manager",
+      "location": "Irving, TX",
+      "date": "2026-10-28",
+      "status": "applied",
+      "pay": "$85K–$100K",
+      "via": "Workday",
+      "note": "R268675; applied Oct 28; confirmation email received",
+      "lat": 32.814,
+      "lng": -96.9489,
+      "approx": true
     }
   ]
 }
