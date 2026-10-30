@@ -1,6 +1,6 @@
 import json,html,datetime,zoneinfo
 d=json.load(open('/workspace/jobmap/applications.json'))
-C={"applied":"#2a7de1","interview":"#f2a900","rejected":"#d33","offer":"#2a2"}
+C={"applied":"#2a7de1","interview":"#f2a900","rejected":"#d33","offer":"#2a2","no_response":"#9e9e9e"}
 apps=sorted(d["applications"],key=lambda a:a["date"],reverse=True)
 cnt={k:sum(a["status"]==k for a in apps) for k in C}
 now=datetime.datetime.now(zoneinfo.ZoneInfo("America/Chicago")).strftime("%b %d, %Y %I:%M %p CT")
