@@ -207,10 +207,11 @@
       "status": "applied",
       "pay": "Not listed",
       "via": "Email to recruiter Alison Reierson",
-      "note": "Resume and cover letter emailed Oct 20",
+      "note": "Resume and cover letter emailed Oct 20. Second follow-up emailed Nov 3.",
       "lat": 32.7555,
       "lng": -97.3308,
-      "approx": true
+      "approx": true,
+      "followup": "2026-11-03"
     },
     {
       "company": "Birdeye",
@@ -644,7 +645,7 @@
       "status": "interview",
       "pay": "Asked $115K",
       "via": "Workday",
-      "note": "Recruiter screen with Maddie (Vistra recruiting) Tue Nov 3, 1 PM CT",
+      "note": "Recruiter screen with Maddie Weinstock went well (Nov 3-4). Moving forward; Carman Mannen (Sr. Director of Real Estate) will reach out to set up a meeting. Hybrid Irving HQ (3 days office / 2 home). Maddie said ask ~$125K-$130K base. Misdemeanor disclosed, not a problem.",
       "lat": 32.87,
       "lng": -96.94,
       "approx": true
