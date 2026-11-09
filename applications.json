@@ -10,26 +10,27 @@
       "role": "New Home Sales Consultant (Kingsborough)",
       "location": "Crandall, TX",
       "date": "2026-10-09",
-      "status": "applied",
+      "status": "no_response",
       "pay": "Not listed",
       "via": "Workable",
       "lat": 32.627,
       "lng": -96.456,
       "approx": true,
       "followup": "2026-10-29",
-      "note": "Follow-up email sent Oct 29"
+      "note": "Follow-up email sent Oct 29; marked no response Nov 9 (30 days since apply, no employer reply)"
     },
     {
       "company": "Smith Douglas Homes",
       "role": "New Home Sales Specialist",
       "location": "Dallas, TX",
       "date": "2026-10-09",
-      "status": "applied",
+      "status": "no_response",
       "pay": "$80k",
       "via": "Greenhouse",
       "lat": 32.7767,
       "lng": -96.797,
-      "approx": true
+      "approx": true,
+      "note": "Marked no response Nov 9 (30 days since apply, no employer reply)"
     },
     {
       "company": "Lantern (Employer Direct Healthcare)",
