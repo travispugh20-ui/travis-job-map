@@ -675,6 +675,32 @@
       "lat": 32.351,
       "lng": -95.285,
       "approx": true
+    },
+    {
+      "company": "CENTURY 21 Judge Fite",
+      "role": "Regional Sales Manager",
+      "location": "Dallas, TX (250 N Bishop Ave)",
+      "date": "2026-11-09",
+      "status": "applied",
+      "pay": "Salary + overrides + recruiting commissions (amount not listed)",
+      "via": "Breezy",
+      "lat": 32.7468,
+      "lng": -96.8282,
+      "approx": true,
+      "note": "Applied ~7:41 AM CT via Breezy. Confirmation: application submitted successfully. Resume Travis_Pugh_C21JudgeFite_RSM.pdf. Texas broker license Yes. https://century-21-judge-fite.breezy.hr/p/850b699535d8-regional-sales-manager"
+    },
+    {
+      "company": "RBSHome",
+      "role": "Land Acquisition Manager",
+      "location": "McKinney, TX (Dallas/Collin hybrid)",
+      "date": "2026-11-09",
+      "status": "applied",
+      "pay": "Not listed",
+      "via": "Email (contact@rbshome.com)",
+      "lat": 33.1497,
+      "lng": -96.6826,
+      "approx": true,
+      "note": "Travis sent application email himself ~7:39 AM CT from travispugh20@gmail.com to contact@rbshome.com. Resume Travis_Pugh_RBSHome_LandAcq.pdf attached. https://rbshome.com/careers/land-acquisition-manager"
     }
   ]
 }
