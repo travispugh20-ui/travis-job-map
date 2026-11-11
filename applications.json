@@ -63,24 +63,26 @@
       "role": "Site Acquisition Manager, Central",
       "location": "Dallas-Fort Worth, TX",
       "date": "2026-10-12",
-      "status": "applied",
+      "status": "no_response",
       "pay": "Not listed (est. $90k-$130k)",
       "via": "Greenhouse",
       "lat": 32.8998,
       "lng": -97.0403,
-      "approx": true
+      "approx": true,
+      "note": "Marked no response Nov 11 (30 days since apply, no employer reply)"
     },
     {
       "company": "Home Genius Exteriors",
       "role": "Inside Sales Manager",
       "location": "Dallas, TX",
       "date": "2026-10-12",
-      "status": "applied",
+      "status": "no_response",
       "pay": "$85k-$100k",
       "via": "Breezy",
       "lat": 32.93,
       "lng": -96.85,
-      "approx": true
+      "approx": true,
+      "note": "Marked no response Nov 11 (30 days since apply, no employer reply)"
     },
     {
       "company": "JSI",
@@ -682,13 +684,13 @@
       "role": "Regional Sales Manager",
       "location": "Dallas, TX (250 N Bishop Ave)",
       "date": "2026-11-09",
-      "status": "applied",
+      "status": "interview",
       "pay": "Salary + overrides + recruiting commissions (amount not listed)",
       "via": "Breezy",
       "lat": 32.7468,
       "lng": -96.8282,
       "approx": true,
-      "note": "Applied ~7:41 AM CT via Breezy. Confirmation: application submitted successfully. Resume Travis_Pugh_C21JudgeFite_RSM.pdf. Texas broker license Yes. https://century-21-judge-fite.breezy.hr/p/850b699535d8-regional-sales-manager"
+      "note": "Applied Nov 9 ~7:41 AM CT via Breezy (Travis_Pugh_C21JudgeFite_RSM.pdf). Interview scheduled Fri Nov 13, 2026, 11:00 AM\u201312:30 PM CT with Cassy Nutt on Microsoft Teams; Travis confirmed Nov 10. https://century-21-judge-fite.breezy.hr/p/850b699535d8-regional-sales-manager"
     },
     {
       "company": "RBSHome",
