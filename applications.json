@@ -692,7 +692,7 @@
       "lat": 32.7468,
       "lng": -96.8282,
       "approx": true,
-      "note": "Applied Nov 9 ~7:41 AM CT via Breezy (Travis_Pugh_C21JudgeFite_RSM.pdf). Interview scheduled Fri Nov 13, 2026, 11:00 AM\u201312:30 PM CT with Cassy Nutt on Microsoft Teams; Travis confirmed Nov 10. https://century-21-judge-fite.breezy.hr/p/850b699535d8-regional-sales-manager"
+      "note": "Applied Nov 9 ~7:41 AM CT via Breezy (Travis_Pugh_C21JudgeFite_RSM.pdf). Interview held Fri Nov 13, 2026, 11:00 AM\u201312:30 PM CT with Cassy Nutt on Microsoft Teams; went well. Base $70K. A week or more of interviews before a decision. https://century-21-judge-fite.breezy.hr/p/850b699535d8-regional-sales-manager"
     },
     {
       "company": "RBSHome",
@@ -785,6 +785,84 @@
       "lng": -96.75,
       "approx": true,
       "note": "Applied Nov 13 ~8:05 AM CT with Travis_Pugh_Mercury_SupportMgr.pdf and a short Why Mercury? essay; confirmation email received (Thank you for applying to Mercury). No reference number."
+    },
+    {
+      "company": "LAN (Lockwood, Andrews & Newnam)",
+      "role": "Project Manager, Right of Way",
+      "location": "Dallas, TX (8350 N Central Expy; on-site/hybrid)",
+      "date": "2026-11-14",
+      "status": "applied",
+      "pay": "Not listed",
+      "via": "Paylocity",
+      "lat": 32.8623,
+      "lng": -96.7697,
+      "approx": true,
+      "note": "Applied Nov 14 with Travis_Pugh_LAN_ROW_PM.pdf and a cover letter. Posting lists Dallas, TX; pinned at LAN\u2019s Dallas office (8350 N Central Expressway, Suite 300). https://recruiting.paylocity.com/Recruiting/Jobs/Details/4419046"
+    },
+    {
+      "company": "WSB",
+      "role": "Manager, Right of Way",
+      "location": "Tyler, TX (1015 Pruitt Place)",
+      "date": "2026-11-14",
+      "status": "applied",
+      "pay": "Not listed",
+      "via": "ADP",
+      "lat": 32.3017,
+      "lng": -95.3132,
+      "approx": true,
+      "note": "Applied Nov 14 with Travis_Pugh_WSB_ROW_Manager.pdf. ADP showed Application Submitted; no reference number. Pinned at WSB\u2019s Tyler office (1015 Pruitt Place, Suite 102). https://myjobs.adp.com/wsb_careers/cx/job-details?reqId=5001228879806"
+    },
+    {
+      "company": "Colliers",
+      "role": "Manager, Lease Administration (JR18616)",
+      "location": "Remote",
+      "date": "2026-11-14",
+      "status": "applied",
+      "pay": "$87,862\u2013$93,500",
+      "via": "Workday",
+      "lat": 32.725,
+      "lng": -96.79,
+      "approx": true,
+      "note": "Applied Nov 14 with Travis_Pugh_Colliers_LeaseAdmin.pdf. Workday showed Application Received; no reference number. Pinned near Dallas. https://colliers.wd3.myworkdayjobs.com/en-US/Colliers-External-Career-Site/job/Manager--Lease-Administration_JR18616"
+    },
+    {
+      "company": "Colliers",
+      "role": "Transition Manager, Lease Administration (JR18817)",
+      "location": "Remote",
+      "date": "2026-11-14",
+      "status": "applied",
+      "pay": "$96,955\u2013$113,000",
+      "via": "Workday",
+      "lat": 32.845,
+      "lng": -96.765,
+      "approx": true,
+      "note": "Applied Nov 14 with Travis_Pugh_Colliers_Transition.pdf. Workday showed Application Received; no reference number. Pinned near Dallas. https://colliers.wd3.myworkdayjobs.com/en-US/Colliers-External-Career-Site/job/Transition-Manager--Lease-Administration_JR18817"
+    },
+    {
+      "company": "TransGrid Energy",
+      "role": "Senior Manager, Site Acquisition Lead",
+      "location": "Remote",
+      "date": "2026-11-14",
+      "status": "applied",
+      "pay": "$185K\u2013$195K + 20% bonus",
+      "via": "Ashby",
+      "lat": 32.795,
+      "lng": -96.725,
+      "approx": true,
+      "note": "Applied Nov 14 with Travis_Pugh_TransGrid_SiteAcq.pdf. Confirmation: Your application was successfully submitted; no reference number. Form leaned on power and utility experience; answered honestly that strength is land and site deals and utility work has been coordination only. Pinned near Dallas. https://jobs.ashbyhq.com/transgrid-energy/510cb188-8f05-4764-84da-66faeab9531d"
+    },
+    {
+      "company": "OneSkin",
+      "role": "Senior Manager, Customer Experience",
+      "location": "Remote",
+      "date": "2026-11-14",
+      "status": "applied",
+      "pay": "$155K\u2013$175K + bonus + equity",
+      "via": "Greenhouse",
+      "lat": 32.855,
+      "lng": -96.735,
+      "approx": true,
+      "note": "Applied Nov 14 with Travis_Pugh_OneSkin_CX.pdf. Pinned near Dallas. https://job-boards.greenhouse.io/oneskin/jobs/4472619009"
     }
   ]
 }
