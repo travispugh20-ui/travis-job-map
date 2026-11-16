@@ -752,13 +752,13 @@
       "role": "Manager, Member Support",
       "location": "Remote (US)",
       "date": "2026-11-13",
-      "status": "applied",
+      "status": "rejected",
       "pay": "$89K\u2013$100K + equity",
       "via": "Greenhouse",
       "lat": 32.805,
       "lng": -96.73,
       "approx": true,
-      "note": "Applied Nov 13 ~8:04 AM CT with Travis_Pugh_Engine_MemberSupport.pdf; confirmation email received (Thank you for applying to Engine!). No reference number. https://job-boards.greenhouse.io/engine/jobs/8160650003"
+      "note": "Applied Nov 13 ~8:04 AM CT with Travis_Pugh_Engine_MemberSupport.pdf; confirmation email received (Thank you for applying to Engine!). No reference number. https://job-boards.greenhouse.io/engine/jobs/8160650003; Rejection email Nov 15 ~9:36 AM CT: not moving forward with Manager, Member Support."
     },
     {
       "company": "MoeGo",
@@ -889,6 +889,45 @@
       "lng": -96.785,
       "approx": true,
       "note": "Applied Nov 15 with Travis_Pugh_GTIndependence_DirectorCCOps.pdf. Confirmation: Your application was submitted; no reference number. Pinned near Dallas. https://recruiting.ultipro.com/GTI1000GUAD/JobBoard/9dfb5104-5c54-40ef-9fef-bdc8060ce73d/OpportunityDetail?opportunityId=a65b9aaf-c31d-42c4-8fe9-e48bf630638e"
+    },
+    {
+      "company": "Boostlingo",
+      "role": "Manager, Customer Support",
+      "location": "Remote (US)",
+      "date": "2026-11-16",
+      "status": "applied",
+      "pay": "Not listed (asked $100K+)",
+      "via": "Greenhouse",
+      "lat": 32.815,
+      "lng": -96.745,
+      "approx": true,
+      "note": "Applied Nov 16 ~7:10\u20137:12 AM CT with Travis_Pugh_Boostlingo_CSM.pdf. Confirmation email received (We've received your application to Boostlingo!). No reference number. Req 2593. Pinned near Dallas. https://job-boards.greenhouse.io/boostlingo/jobs/5470318008"
+    },
+    {
+      "company": "PetDesk",
+      "role": "Manager, Customer Support",
+      "location": "Remote (US)",
+      "date": "2026-11-16",
+      "status": "applied",
+      "pay": "$94K\u2013$106K",
+      "via": "Lever",
+      "lat": 32.775,
+      "lng": -96.755,
+      "approx": true,
+      "note": "Applied Nov 16 ~7:10\u20137:12 AM CT with Travis_Pugh_PetDesk_CSM.pdf. Confirmation email received (Thank you for your application to PetDesk). No reference number. Pinned near Dallas. https://jobs.lever.co/petdesk/2ee3df9f-b38d-47b8-a91c-04805e1d7ac4"
+    },
+    {
+      "company": "Passport",
+      "role": "Director, Customer Operations & Experience",
+      "location": "Remote (US)",
+      "date": "2026-11-16",
+      "status": "applied",
+      "pay": "Not listed (asked $100K)",
+      "via": "Ashby",
+      "lat": 32.835,
+      "lng": -96.715,
+      "approx": true,
+      "note": "Applied Nov 16 ~7:10\u20137:12 AM CT with Travis_Pugh_Passport_DirectorCX.pdf. Confirmation email received (Thanks for applying to Passport! for Director, Customer Operations & Experience). No reference number. Posting also styled as Director of Customer Experience. Salary entered 100000. Pinned near Dallas. https://jobs.ashbyhq.com/passport/d3cd5238-86ca-477e-8c4d-aa9f2c0b23e6"
     }
   ]
 }
