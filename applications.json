@@ -207,10 +207,10 @@
       "role": "Land Acquisition Manager (residential homebuilder)",
       "location": "Fort Worth, TX",
       "date": "2026-10-20",
-      "status": "applied",
+      "status": "no_response",
       "pay": "Not listed",
       "via": "Email to recruiter Alison Reierson",
-      "note": "Resume and cover letter emailed Oct 20. Second follow-up emailed Nov 3.",
+      "note": "Resume and cover letter emailed Oct 20. Second follow-up emailed Nov 3. Marked no response Nov 17 (14 days after the Nov 3 follow-up, no employer reply).",
       "lat": 32.7555,
       "lng": -97.3308,
       "approx": true,
@@ -390,10 +390,10 @@
       "role": "Land Acquisition Manager",
       "location": "Plano, TX",
       "date": "2026-10-28",
-      "status": "applied",
+      "status": "rejected",
       "pay": "Not listed (asked $95K)",
       "via": "Taleo",
-      "note": "Job ID 24329; applied Oct 28; submission confirmed on site",
+      "note": "Job ID 24329; applied Oct 28; submission confirmed on site. Rejection email from K. Hovnanian Recruiting Nov 16 ~12:51 PM CT (not selected for the Land Acquisition Manager position).",
       "lat": 33.0198,
       "lng": -96.6989,
       "approx": true
@@ -928,6 +928,19 @@
       "lng": -96.715,
       "approx": true,
       "note": "Applied Nov 16 ~7:10\u20137:12 AM CT with Travis_Pugh_Passport_DirectorCX.pdf. Confirmation email received (Thanks for applying to Passport! for Director, Customer Operations & Experience). No reference number. Posting also styled as Director of Customer Experience. Salary entered 100000. Pinned near Dallas. https://jobs.ashbyhq.com/passport/d3cd5238-86ca-477e-8c4d-aa9f2c0b23e6"
+    },
+    {
+      "company": "Clever Real Estate",
+      "role": "Director of Customer Service Operations",
+      "location": "Remote (US)",
+      "date": "2026-11-16",
+      "status": "applied",
+      "pay": "$150K\u2013$175K base, OTE $175K\u2013$225K + equity",
+      "via": "Breezy HR",
+      "lat": 32.852,
+      "lng": -96.742,
+      "approx": true,
+      "note": "Applied Nov 16 ~5:05 PM CT with Travis_Pugh_Clever_DirectorCSO.pdf. Confirmed Application Submitted on Breezy HR, no reference number. Pinned near Dallas. https://clever-real-estate.breezy.hr/p/0b92f519f0a7-director-of-customer-service-operations"
     }
   ]
 }
